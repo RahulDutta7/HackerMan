@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+}
+
+.terminal {
+    padding: 20px;
+}
+
+.glow {
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+}
+
+#output p {
+    margin: 5px 0;
+}
+
+input {
+    background: black;
+    border: none;
+    color: #00ff00;
+    outline: none;
+    width: 100%;
+    font-family: 'Courier New', monospace;
+    font-size: 16px;
+}
+
